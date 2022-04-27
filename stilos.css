@@ -1,0 +1,7 @@
+.global {
+    text-align: center;
+}
+
+#p1, #p2 {
+    margin:20px;
+}
